@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/images-2-.jpeg"
-logo = "/media/images-2-.jpeg"
+icon = "/media/unity2.webp"
+logo = "/media/unity2.webp"
 image = "/media/wp7060154.jpg"
 color = "#5a4ae3"
 +++
