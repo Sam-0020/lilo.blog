@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "My Name"
-image = "/media/darth-vaders-lightsaber.jpg"
+image = "/media/download.jpeg"
 url = "/about/"
 +++
