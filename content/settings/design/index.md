@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/darth-vaders-lightsaber.jpg"
+icon = "/media/darth-vader.webp"
 logo = "/media/darth-vaders-lightsaber.jpg"
-image = "/media/alan-wake-2-hd-wallpapers-v0-c22vy2bcityb1.webp"
+image = "/media/red-dead-red-dead-redemption-2-arthur-morgan-wallpaper-preview.jpg"
 color = "#5a4ae3"
 +++
