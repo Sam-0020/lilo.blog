@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/assassins-creed-logo-700x394.png"
-logo = "/media/assassins-creed-logo-700x394.png"
-image = "/media/images-1-.jpeg"
+icon = "/media/images-2-.jpeg"
+logo = "/media/images-2-.jpeg"
+image = "/media/wp7060154.jpg"
 color = "#5a4ae3"
 +++
