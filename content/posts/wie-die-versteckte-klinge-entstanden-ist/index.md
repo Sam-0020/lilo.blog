@@ -1,5 +1,5 @@
 +++
-title = "Wie die versteckte Klinge entstanden ist"
+title = "Blog hilfe"
 date = "2025-02-21"
 draft = false
 pinned = false
