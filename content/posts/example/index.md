@@ -1,5 +1,5 @@
 +++
-title = "Example Post"
+title = "How the hidden blade was created"
 date = "2023-01-01"
 draft = false
 pinned = false
