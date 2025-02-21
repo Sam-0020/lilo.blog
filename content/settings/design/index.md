@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/darth-vader.webp"
-logo = "/media/darth-vaders-lightsaber.jpg"
-image = "/media/red-dead-red-dead-redemption-2-arthur-morgan-wallpaper-preview.jpg"
+icon = "/media/6jkkjoutg4u41.jpg"
+logo = "/media/assassins-creed-logo-700x394.png"
+image = "/media/images.jpeg"
 color = "#5a4ae3"
 +++
