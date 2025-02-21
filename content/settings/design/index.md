@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/darth-vaders-lightsaber.jpg"
+logo = "/media/darth-vaders-lightsaber.jpg"
+image = "/media/alan-wake-2-hd-wallpapers-v0-c22vy2bcityb1.webp"
 color = "#5a4ae3"
 +++
