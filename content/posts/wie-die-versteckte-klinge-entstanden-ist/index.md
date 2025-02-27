@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = "ubinews-evolutionofhiddenblade-char_ezio_hidden_blade.avif"
-description = "Wie die versteckte Klinge der Bruderschafft erschaffen worden ist"
+description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
