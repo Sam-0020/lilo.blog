@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Assassin's Creed"
-description = "The Brotherhood"
+title = "Reportagen"
+description = "Aufträge im Deutsch"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
