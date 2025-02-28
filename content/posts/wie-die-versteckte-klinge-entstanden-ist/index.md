@@ -1,7 +1,7 @@
 +++
 title = "Blog hilfe"
 date = "2025-02-21"
-draft = false
+draft = true
 pinned = false
 tags = ["Lilo", "Example"]
 image = "1090929_a49c75bdda76926d8522a578e2e786dd.jpg"
