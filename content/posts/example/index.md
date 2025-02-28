@@ -12,7 +12,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 {{<lead>}}
 
-Viele Menschen starten mit dem Fitness-Training, um ihr Körperbild zu verbessern und mehr Selbstvertrauen zu gewinnen. In diesem Interview spricht Flurin, 16 Jahre alt, darüber, wie er durch das Gym nicht nur körperlich, sondern auch mental gewachsen ist.
+**Viele Menschen starten mit dem Fitness-Training, um ihr Körperbild zu verbessern und mehr Selbstvertrauen zu gewinnen. In diesem Interview spricht Flurin, 16 Jahre alt, darüber, wie er durch das Gym nicht nur körperlich, sondern auch mental gewachsen ist.**
 
 {{<lead>}}
 
