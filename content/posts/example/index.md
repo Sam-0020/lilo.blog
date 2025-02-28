@@ -25,7 +25,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 * **Ausbildung:** Gymnasias
 * **Sein Ziel im Gym:** Muskelaufbau, Selbstbewusstsein stärken
 
-{{<box>}}
+{{</box>}}
 
 **Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**\
 Das hatte zwei Gründe. Zum einen habe ich mich nicht wohl in meinem Körper gefühlt, zum anderen wollte ich aktiv etwas verändern. Ich war sehr dünn und hatte das Bedürfnis, mein Selbstwertgefühl zu verbessern. Deshalb begann ich zuerst zuhause mit dem Training. Nach einem halben Jahr habe ich mich dann im Gym angemeldet und trainiere seither viermal pro Woche.
