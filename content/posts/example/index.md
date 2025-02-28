@@ -22,7 +22,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 * **Name:** Flurin Antonio Liebold
 * **Alter:** 16 Jahre
-* **Ausbildung:** Gymnasias
+* **Ausbildung:** Gymnasiast
 * **Sein Ziel im Gym:** Muskelaufbau, Selbstbewusstsein stärken
 
 {{</box>}}
