@@ -4,7 +4,7 @@ date = "2024-02-27"
 draft = false
 pinned = true
 tags = ["Gym", "Interview", "Identität"]
-image = ""
+image = "pexels-photo-260352.webp"
 description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
