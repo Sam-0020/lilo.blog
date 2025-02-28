@@ -4,7 +4,7 @@ date = "2025-02-21"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "ubinews-evolutionofhiddenblade-char_ezio_hidden_blade.avif"
+image = "1090929_a49c75bdda76926d8522a578e2e786dd.jpg"
 description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
