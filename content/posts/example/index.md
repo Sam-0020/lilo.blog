@@ -12,7 +12,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 {{<lead>}}
 
-###### **Viele Menschen starten mit dem Fitness-Training, um ihr Körperbild zu verbessern und mehr Selbstvertrauen zu gewinnen. In diesem Interview spricht Flurin, 16 Jahre alt, darüber, wie er durch das Gym nicht nur körperlich, sondern auch mental gewachsen ist.**
+**Sich im eigenen Körper wohlfühlen und das Selbstbewusstsein stärken – das war der Antrieb für Flurin, mit dem Gym Training zu beginnen. Mittlerweile hat er sein Leben dem Fitness verschrieben. Im Interview steht im Mittelpunkt die Herausforderungen, Disziplin und den ständigen Vergleich mit Social Media-Vorbildern.**
 
 {{<lead>}}
 
@@ -26,6 +26,3 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 * **Sein Ziel im Gym:** Muskelaufbau, Selbstbewusstsein stärken
 
 {{</box>}}
-
-**Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**\
-Das hatte zwei Gründe. Zum einen habe ich mich nicht wohl in meinem Körper gefühlt, zum anderen wollte ich aktiv etwas verändern. Ich war sehr dünn und hatte das Bedürfnis, mein Selbstwertgefühl zu verbessern. Deshalb begann ich zuerst zuhause mit dem Training. Nach einem halben Jahr habe ich mich dann im Gym angemeldet und trainiere seither viermal pro Woche.
