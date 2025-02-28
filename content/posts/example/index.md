@@ -2,7 +2,7 @@
 title = "Wie das Gym die Identität und Selbstbild formt"
 date = "2024-02-27"
 draft = false
-pinned = false
+pinned = true
 tags = ["Gym", "Interview"]
 image = ""
 description = ""
