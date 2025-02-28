@@ -8,7 +8,7 @@ image = "pexels-photo-260352.webp"
 description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-## Wie das Gym die Identität und das Selbstbild formt
+# Wie das Gym die Identität und das Selbstbild formt
 
 <!--StartFragment-->
 
