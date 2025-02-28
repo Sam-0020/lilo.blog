@@ -1,5 +1,5 @@
 +++
-title = "Wie das Gym die Identität und das Selbstbild formt"
+title = "Wie prägt das Gym dein Selbstbild"
 date = "2024-02-27"
 draft = false
 pinned = true
