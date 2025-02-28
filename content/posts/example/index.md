@@ -17,3 +17,13 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 {{<lead>}}
 
 > *"Das Training ist das Hauptziel meines Tages."*
+
+{{<box>}}
+
+**Name:** Flurin Antonio Liebold\
+**Alter:** 16 Jahre\
+**Trainingsbeginn:** Mit 13 Jahren zuhause, mit 14 im Gym\
+**Trainingsfrequenz:** 4-mal pro Woche\
+**Sein Ziel:** Muskelaufbau, Selbstbewusstsein stärken
+
+{{<box>}}
