@@ -6,7 +6,7 @@ pinned = true
 tags = ["Gym", "Interview", "Identität"]
 image = "pexels-photo-260352.webp"
 description = ""
-footnotes = "**Bilder**\nSchwarze Hanteln - *https://www.pexels.com/photo/black-dumbbell-lot-260352/*"
+footnotes = "Titelbild - *https://www.pexels.com/photo/black-dumbbell-lot-260352/*"
 +++
 # **Disziplin, Fortschritt und der Einfluss des Gyms auf das Selbstbild**
 
