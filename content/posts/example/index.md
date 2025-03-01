@@ -40,7 +40,7 @@ Ich habe kein bestimmtes Mindset, aber egal, wie ich mich fühle - gut, schlecht
 **Wie beeinflusst das dein Leben in anderen Bereichen, zum Beispiel Ernährung und Schlaf?**\
 Sehr stark. Ich achte sehr auf meine Ernährung und vor allem darauf, jede Nacht 9-10 Stunden zu schlafen und habe ein gewisses Ernährungsziel, das ich jedem Tag verfolge. Daher plane ich jeden Tag meine Mahlzeiten, trainiere 2 Stunden täglich und dazu meistens noch 30 Minuten Cardio. Dadurch bleibt leider wenig Zeit für soziale Kontakte oder spontane Treffen wie auswärts essen. Es ist ein Sport der sehr viel vom Alltag beeinträchtigt
 
-**Wie würdest du deinen Fortschritt im Gym seit deinem Trainingsbeginn beschreiben**\
+**Wie würdest du deinen Fortschritt im Gym seit deinem Trainingsbeginn beschreiben?**\
 Ich habe mit extrem wenig Muskelmasse angefangen. Vorher hatte ich fast keine, und jetzt würde ich mich als Durchschnittlich bezeichnen. Hätte ich damals schon so ausgesehen wie jetzt, würde ich wahrscheinlich breiter aussehen. Ich bin jetzt ungefähr 20 Kilo schwerer als am Anfang. Anfangs wog ich 37 Kilo, jetzt bin ich um die 58 Kilo schwer.
 
 **Fühlst du dich unter Druck gesetzt, einem bestimmten Körperideal zu entsprechen?**\
