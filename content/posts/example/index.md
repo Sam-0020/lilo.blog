@@ -61,6 +61,8 @@ Ja, ganz bestimmt. Man muss wissen, dass viel inszeniert ist. Viele Bilder auf S
 **Du hast dir kürzlich den Arm gebrochen. Wie gehst du damit?**\
 Anfangs war es sehr schwer, weil ich nicht wusste, wie ich weitertrainieren soll. Aber vier Tage nach der Operation habe ich meinen Trainingsplan umgeschrieben und war wieder im Gym am Trainieren. Ich trainiere jetzt nur mit der rechten Seite und mache natürlich weiter mit dem Beintraining. Aber Anfangs war es sehr unangenehm, weil ich nicht wusste, wie es mit dem Training weitergeht.
 
+
+
 ![Flurin Liebold im Update Fitness Gym am trainieren, vor seinem Unfall](img-20250228-wa0001.jpg)
 
 **Was motiviert dich, trotz der Verletzung weiterzumachen?**\
