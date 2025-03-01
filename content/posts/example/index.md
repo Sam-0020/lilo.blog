@@ -27,7 +27,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 {{<box>}}
 
-Flurin Antonio Liebold begann mit 13 mit zuhause zu trainieren und wechselte mit 14 in ein professionelles Gym. Seitdem hat er rund 20 kg Muskelmasse aufgebaut und trainiert bis zu sechsmal pro Woche. Trotz Rückschlägen, wie einem gebrochenen Arm, bleibt er diszipliniert und passt sein Training den umständen an.
+Flurin Antonio Liebold begann mit 13 zuhause zu trainieren und wechselte mit 14 in ein professionelles Gym. Seitdem hat er rund 20 kg Muskelmasse aufgebaut und trainiert bis zu sechsmal pro Woche. Trotz Rückschlägen, wie einem gebrochenen Arm, bleibt er diszipliniert und passt sein Training den umständen an.
 
 {{</box>}}
 
