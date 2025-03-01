@@ -25,6 +25,12 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 **Samuel Miescher: Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**\
 **Flurin Liebold:** Das hatte zwei Gründe. Zum einen fühlte ich mich nicht wohl in meinem Körper, zum anderen wollte ich etwas verändern.
 
+{{<box>}}
+
+Flurin Antonio Liebold begann mit 13 mit zuhause zu trainieren und wechselte mit 14 in ein professionelles Gym. Seitdem hat er rund 20 kg Muskelmasse aufgebaut und trainiert bis zu sechsmal pro Woche. Trotz Rückschlägen, wie einem gebrochenen Arm, bleibt er diszipliniert und passt sein Training den umständen an.
+
+{{</box>}}
+
 **Gab es einen bestimmten Moment, der dich dazu gebracht hat, ernsthaft mit dem Fitness anzufangen?**\
 Ja, das war der Hauptgrund. Ich war sehr, sehr dünn und wollte mein Selbstwertgefühl verbessern. Also habe ich mit 13 zu Hause angefangen zu trainieren. Mit 14 habe ich mich dann schliesslich im Gym angemeldet und trainierte dort seitdem viermal die Woche, heutzutage sogar sechsmal in der Woche.
 
@@ -64,12 +70,3 @@ Anfangs war es sehr schwer, weil ich nicht wusste, wie ich weitertrainieren soll
 
 **Was motiviert dich, trotz der Verletzung weiterzumachen?**\
 Die Disziplin hat mir sehr geholfen. Außerdem gibt es einen speziellen Effekt, dass wenn man eine Seite trainiert, wird die andere Seite auch wenig stimuliert, weil die Nervensysteme miteinander verbunden sind. Dadurch verliere ich nicht komplett die Muskelmasse auf der linken Seite. Das ist auch ein sehr starke Motivation für mich, das ich nicht viel fortschritt auf meiner linken Seite verliere
-
-{{<box>}}
-
-* **Name:** Flurin Antonio Liebold
-* **Alter:** 16 Jahre
-* **Ausbildung:** Gymnasiast
-* **Sein Ziel im Gym:** Muskelaufbau, Selbstbewusstsein stärken
-
-{{</box>}}
