@@ -12,7 +12,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 {{<lead>}}
 
-**Sich im eigenen Körper wohlfühlen und das Selbstbewusstsein stärken – das war der Antrieb für Flurin, mit dem Gym Training zu beginnen. Mittlerweile hat er sein Leben dem Fitness verschrieben. Im Interview steht im Mittelpunkt die Herausforderungen, Disziplin und den ständigen Vergleich mit Social Media-Vorbildern.**
+**Sich im eigenen Körper wohlfühlen und das Selbstbewusstsein stärken – das war der Antrieb für Flurin, mit dem Gym Training zu beginnen. Mittlerweile ist das Gym ein Hauptteil von seinem Leben. Im Interview steht im Mittelpunkt die Herausforderungen, Disziplin und den ständigen Vergleich mit Social Media-Vorbildern.**
 
 {{<lead>}}
 
