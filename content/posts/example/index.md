@@ -20,7 +20,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 >
 > *\- Flurin Liebold*
 
-An einem späten Nachmittag, nach einem anstrengenden Training im Update Fitness Marktgasse, setzen wir uns an ein ruhiges Plätzchen im Gym, abseits der lauten Menschen, die noch trainieren. Da wir uns unterhalb des Bodens befinden, erzählt mir Flurin in der angenehmen Helligkeit der warmen Lichter über uns von seinen Gym Erlebnisse
+*An einem späten Nachmittag, nach einem anstrengenden Training im Update Fitness Marktgasse, setzen wir uns an ein ruhiges Plätzchen im Gym, abseits der lauten Menschen, die noch trainieren. Da wir uns unterhalb des Bodens befinden, erzählt mir Flurin in der angenehmen Helligkeit der warmen Lichter über uns von seinen Gym Erlebnisse*
 
 **Samuel Miescher: Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**
 **Flurin Liebold:** Das hatte zwei Gründe. Zum einen fühlte ich mich nicht wohl in meinem Körper, zum anderen wollte ich etwas verändern.
