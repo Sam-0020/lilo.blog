@@ -22,7 +22,8 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 *An einem späten Nachmittag, nach einem anstrengenden Training im Update Fitness Marktgasse, setzen wir uns an ein ruhiges Plätzchen im Gym, abseits der lauten Menschen, die noch trainieren. Da wir uns unterhalb des Bodens befinden, erzählt mir Flurin in der angenehmen Helligkeit der warmen Lichter über uns von seinen Gym Erlebnisse*
 
-**Samuel Miescher: Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**\                             **Flurin Liebold:** Das hatte zwei Gründe. Zum einen fühlte ich mich nicht wohl in meinem Körper, zum anderen wollte ich etwas verändern.
+**Samuel Miescher: Was hat dich dazu gebracht, mit dem Training im Gym anzufangen?**\
+**Flurin Liebold:** Das hatte zwei Gründe. Zum einen fühlte ich mich nicht wohl in meinem Körper, zum anderen wollte ich etwas verändern.
 
 **Gab es einen bestimmten Moment, der dich dazu gebracht hat, ernsthaft mit dem Fitness anzufangen?**\
 Ja, das war der Hauptgrund. Ich war sehr, sehr dünn und wollte mein Selbstwertgefühl verbessern. Also habe ich mit 13 zu Hause angefangen zu trainieren. Mit 14 habe ich mich dann schliesslich im Gym angemeldet und trainierte dort seitdem viermal die Woche, heutzutage sogar sechsmal in der Woche.
@@ -58,8 +59,6 @@ Ja, ganz bestimmt. Man muss wissen, dass viel inszeniert ist. Viele Bilder auf S
 
 **Du hast dir kürzlich den Arm gebrochen. Wie gehst du damit?**\
 Anfangs war es sehr schwer, weil ich nicht wusste, wie ich weitertrainieren soll. Aber vier Tage nach der Operation habe ich meinen Trainingsplan umgeschrieben und war wieder im Gym am Trainieren. Ich trainiere jetzt nur mit der rechten Seite und mache natürlich weiter mit dem Beintraining. Aber Anfangs war es sehr unangenehm, weil ich nicht wusste, wie es mit dem Training weitergeht.
-
-
 
 ![Flurin Liebold im Update Fitness Gym am trainieren, vor seinem Unfall](img-20250228-wa0001.jpg)
 
