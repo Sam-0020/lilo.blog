@@ -8,7 +8,7 @@ image = "pexels-photo-260352.webp"
 description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-# Disziplin, Fortschritt und der Einfluss des Gyms auf das Selbstbild
+# **Disziplin, Fortschritt und der Einfluss des Gyms auf das Selbstbild**
 
 {{<lead>}}
 
