@@ -17,6 +17,8 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 {{<lead>}}
 
 > *"Das Training ist das Hauptziel meines Tages."*
+>
+> *\- Flurin Liebold*
 
 An einem späten Nachmittag, nach einem anstrengenden Training im Update Fitness Marktgasse, setzen wir uns an ein ruhiges Plätzchen im Gym, abseits der lauten Menschen, die noch trainieren. Da wir uns unterhalb des Bodens befinden, erzählt mir Flurin in der angenehmen Helligkeit der warmen Lichter über uns von seinen Gym Erlebnisse
 
@@ -30,6 +32,8 @@ Ja, das war der Hauptgrund. Ich war sehr, sehr dünn und wollte mein Selbstwertg
 Ich glaube das ich mein Selbstbewusstsein auf andere Menschen eindeutig verbessert hat. Aber für mich merke ich keinen riesigen Unterschied, ich fühle mich nicht breiter oder grösser als vorher. Andere nehmen das vielleicht anders wahr.
 
 > *"Es ist ein Sport der sehr viel vom Alltag beeinträchtigt"*
+>
+> *\- Flurin Liebold*
 
 **Hast du ein bestimmtes Mindset das hilft dir, motiviert zu bleiben?**\
 Ich habe kein bestimmtes Mindset, aber egal, wie ich mich fühle - gut, schlecht oder wenn ich müde bin – das Training ist das Hauptziel des Tages. Ich plane meinen ganzen Tag um mein Training herum.
@@ -44,6 +48,8 @@ Ich habe mit extrem wenig Muskelmasse angefangen. Vorher hatte ich fast keine, u
 Ich denke, das geht jedem so. Man verfolgt immer ein Ziel, wie man aussehen will und hat ein grobes Bild davon. Aber das Ziel ist wahrscheinlich unerreichbar.
 
 > *Social Media sollte nicht als Vorlage dienen, sondern als Hilfe und Motivation*
+>
+> *\- Flurin Liebold*
 
  **Welche Rolle spielt Social Media im Zusammenhang mit dem Gym für dich?**\
 Für mich hat Social Media ein Art Vorbildfunktion. Es gibt viele Fitness Influencer die ihre Trainingseinheiten zeigen und wie sie ihren Alltag gestalten. Das kann motivierend sein.
