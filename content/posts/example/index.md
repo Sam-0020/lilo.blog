@@ -69,4 +69,4 @@ Anfangs war es sehr schwer, weil ich nicht wusste, wie ich weitertrainieren soll
 ![Flurin Liebold im Update Fitness Gym am trainieren, vor seinem Unfall](img-20250228-wa0001.jpg)
 
 **Was motiviert dich, trotz der Verletzung weiterzumachen?**\
-Die Disziplin hat mir sehr geholfen. Außerdem gibt es einen speziellen Effekt, dass wenn man eine Seite trainiert, wird die andere Seite auch wenig stimuliert, weil die Nervensysteme miteinander verbunden sind. Dadurch verliere ich nicht komplett die Muskelmasse auf der linken Seite. Das gibt mit auch Motivation, weil ich nicht viel fortschritt auf meiner linken Seite verliere
+Die Disziplin hat mir sehr geholfen. Außerdem gibt es einen speziellen Effekt, dass wenn man eine Seite trainiert, wird die andere Seite auch wenig stimuliert, weil die Nervensysteme miteinander verbunden sind. Dadurch verliere ich nicht komplett die Muskelmasse auf der linken Seite. Das gibt mir auch Motivation, weil ich nicht viel Fortschritt auf meiner linken Seite verliere
