@@ -29,6 +29,8 @@ Ja, das war der Hauptgrund. Ich war sehr, sehr dünn und wollte mein Selbstwertg
 **Hat sich dein Selbstbild durch das Training positiv verändert?**\
 Ich glaube das ich mein Selbstbewusstsein auf andere Menschen eindeutig verbessert hat. Aber für mich merke ich keinen riesigen Unterschied, ich fühle mich nicht breiter oder grösser als vorher. Andere nehmen das vielleicht anders wahr.
 
+> *"Es ist ein Sport der sehr viel vom Alltag beeinträchtigt"*
+
 **Hast du ein bestimmtes Mindset das hilft dir, motiviert zu bleiben?**\
 Ich habe kein bestimmtes Mindset, aber egal, wie ich mich fühle - gut, schlecht oder wenn ich müde bin – das Training ist das Hauptziel des Tages. Ich plane meinen ganzen Tag um mein Training herum.
 
